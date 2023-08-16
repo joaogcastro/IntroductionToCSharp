@@ -1,0 +1,15 @@
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\bin\Debug\net7.0\ConsoleApp_Aula1.exe
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\bin\Debug\net7.0\ConsoleApp_Aula1.deps.json
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\bin\Debug\net7.0\ConsoleApp_Aula1.runtimeconfig.json
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\bin\Debug\net7.0\ConsoleApp_Aula1.dll
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\bin\Debug\net7.0\ConsoleApp_Aula1.pdb
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net7.0\ConsoleApp_Aula1.csproj.AssemblyReference.cache
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net7.0\ConsoleApp_Aula1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net7.0\ConsoleApp_Aula1.AssemblyInfoInputs.cache
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net7.0\ConsoleApp_Aula1.AssemblyInfo.cs
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net7.0\ConsoleApp_Aula1.csproj.CoreCompileInputs.cache
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net7.0\ConsoleApp_Aula1.dll
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net7.0\refint\ConsoleApp_Aula1.dll
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net7.0\ConsoleApp_Aula1.pdb
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net7.0\ConsoleApp_Aula1.genruntimeconfig.cache
+c:\Users\Aluno\Documents\GitHub\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net7.0\ref\ConsoleApp_Aula1.dll
