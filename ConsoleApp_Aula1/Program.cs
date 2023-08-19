@@ -1,9 +1,6 @@
 ﻿public class Program
 {
-
-
-
-    public static void Maeeein(string[] args)
+    public static void Main(string[] args)
     {
 
         Pedido P = new();
