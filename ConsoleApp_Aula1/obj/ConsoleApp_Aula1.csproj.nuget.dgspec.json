@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaot\\Documentos\\Github\\IntroductionToCSharp\\ConsoleApp_Aula1\\ConsoleApp_Aula1.csproj": {}
+    "c:\\Users\\joaot\\Documentos\\Github\\IntroductionToCSharp\\ConsoleApp_Aula1\\ConsoleApp_Aula1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaot\\Documentos\\Github\\IntroductionToCSharp\\ConsoleApp_Aula1\\ConsoleApp_Aula1.csproj": {
+    "c:\\Users\\joaot\\Documentos\\Github\\IntroductionToCSharp\\ConsoleApp_Aula1\\ConsoleApp_Aula1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaot\\Documentos\\Github\\IntroductionToCSharp\\ConsoleApp_Aula1\\ConsoleApp_Aula1.csproj",
+        "projectUniqueName": "c:\\Users\\joaot\\Documentos\\Github\\IntroductionToCSharp\\ConsoleApp_Aula1\\ConsoleApp_Aula1.csproj",
         "projectName": "ConsoleApp_Aula1",
-        "projectPath": "C:\\Users\\joaot\\Documentos\\Github\\IntroductionToCSharp\\ConsoleApp_Aula1\\ConsoleApp_Aula1.csproj",
+        "projectPath": "c:\\Users\\joaot\\Documentos\\Github\\IntroductionToCSharp\\ConsoleApp_Aula1\\ConsoleApp_Aula1.csproj",
         "packagesPath": "C:\\Users\\joaot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaot\\Documentos\\Github\\IntroductionToCSharp\\ConsoleApp_Aula1\\obj\\",
+        "outputPath": "c:\\Users\\joaot\\Documentos\\Github\\IntroductionToCSharp\\ConsoleApp_Aula1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaot\\AppData\\Roaming\\NuGet\\NuGet.Config"
