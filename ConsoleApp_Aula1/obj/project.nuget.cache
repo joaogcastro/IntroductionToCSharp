@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "nIdVynr8gxAzqBBj2fC+6DF1PMF3/6/5HGRqyuf81SjyBW3rk5BgZuAvQ0/VWHMTb6T5PSykZFdwTtpjyabTfA==",
+  "dgSpecHash": "cUiiBoa9XQQ1oSKOH0PGZ8gXxE+8j5ImHSjZZ5g+lwXn2CGgigCeAbcT+SgZ+ZFE4EDWmIr6j79TPsbb5mniKQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Aluno\\Documents\\GitHub\\IntroductionToCSharp\\ConsoleApp_Aula1\\ConsoleApp_Aula1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\joaot\\Documentos\\Github\\IntroductionToCSharp\\ConsoleApp_Aula1\\ConsoleApp_Aula1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaot\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\joaot\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\joaot\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\joaot\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

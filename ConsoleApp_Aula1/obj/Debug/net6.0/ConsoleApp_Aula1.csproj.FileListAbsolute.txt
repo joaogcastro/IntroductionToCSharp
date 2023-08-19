@@ -1,0 +1,5 @@
+C:\Users\joaot\Documentos\Github\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net6.0\ConsoleApp_Aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaot\Documentos\Github\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net6.0\ConsoleApp_Aula1.AssemblyInfoInputs.cache
+C:\Users\joaot\Documentos\Github\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net6.0\ConsoleApp_Aula1.AssemblyInfo.cs
+C:\Users\joaot\Documentos\Github\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net6.0\ConsoleApp_Aula1.csproj.CoreCompileInputs.cache
+C:\Users\joaot\Documentos\Github\IntroductionToCSharp\ConsoleApp_Aula1\obj\Debug\net6.0\ConsoleApp_Aula1.sourcelink.json
