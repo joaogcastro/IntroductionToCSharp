@@ -1,21 +1,24 @@
-using Complemento;
- 
-public class Pizza{
+using static Complemento;
+
+public class Pizza
+{
     private string _categoria;
     private string _sabor;
     private string _tamanho;
-    private static List<Complemento> complementos = new List<Complemento;
+    private static List<Complemento> complementos = new List<Complemento>();
 
     public string Categoria { get; set; }
-    public string Sabor { get; set;}
-    public string Tamanho { get;}
-    public boolean AdicionarComplemento(Complemento complemento){
+    public string Sabor { get; set; }
+    public string Tamanho { get; }
+    public bool AdicionarComplemento(Complemento complemento)
+    {
         complementos.Add(complemento);
         return true;
     }
 
-    public boolean RemoverComplemento(Complemento complemento){
-        complementos.remove(complemento);
+    public bool RemoverComplemento(Complemento complemento)
+    {
+        complementos.Remove(complemento);
         return true;
     }
 }

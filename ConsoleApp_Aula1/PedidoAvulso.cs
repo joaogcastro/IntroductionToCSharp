@@ -1,7 +1,9 @@
-public class PedidoAvulso{
+public class PedidoAvulso
+{
     private string _descricao;
 
-    public string Descricao{
+    public string Descricao
+    {
         get => _descricao;
         set => _descricao = value;
     }
