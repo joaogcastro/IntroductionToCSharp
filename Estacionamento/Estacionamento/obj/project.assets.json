@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Aluno\\Documents\\GitHub\\Estacionamento\\Estacionamento\\Estacionamento.csproj",
+      "projectUniqueName": "c:\\Users\\Aluno\\Desktop\\Estacionamento\\Estacionamento\\Estacionamento.csproj",
       "projectName": "Estacionamento",
-      "projectPath": "c:\\Users\\Aluno\\Documents\\GitHub\\Estacionamento\\Estacionamento\\Estacionamento.csproj",
+      "projectPath": "c:\\Users\\Aluno\\Desktop\\Estacionamento\\Estacionamento\\Estacionamento.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Aluno\\Documents\\GitHub\\Estacionamento\\Estacionamento\\obj\\",
+      "outputPath": "c:\\Users\\Aluno\\Desktop\\Estacionamento\\Estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -13,7 +13,7 @@ internal class Carro : Veiculo
         _nPortas = 0;
     }
 
-    public Carro(string placa, string descricao, Cor corExterna, int nPortas) : base(placa, descricao, corExterna)
+    public Carro(string placa, Modelo modelo, string descricao, Cor corExterna, int nPortas) : base(placa, modelo, descricao, corExterna)
     {
         _nPortas = nPortas;
     }
@@ -21,7 +21,8 @@ internal class Carro : Veiculo
     public override void Mostrar()
     {
         Console.WriteLine("Placa: " + _placa);
-        Console.WriteLine("Modelo: " + _descricao);
+        Console.WriteLine("Modelo: " + _modelo);
+        Console.WriteLine("Desricao: " + _descricao);
         Console.WriteLine("Cor do carro: " + _corExterna);
         Console.WriteLine("Numero portas: " + _nPortas);
     }
